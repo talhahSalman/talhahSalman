@@ -106,21 +106,7 @@ GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=40c463&icon_color=40c463&text_color=94a3b8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=40c463&icon_color=40c463&text_color=334155&border_color=e2e8f0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=40c463&icon_color=40c463&text_color=94a3b8"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=true&bg_color=0d1117&title_color=40c463&text_color=94a3b8&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=false&bg_color=ffffff&title_color=40c463&text_color=334155&langs_count=8&border_color=e2e8f0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=true&bg_color=0d1117&title_color=40c463&text_color=94a3b8&langs_count=8"/>
-</picture>
 
-<br/><br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=false&background=ffffff&stroke=e2e8f0&ring=40c463&fire=d97706&currStreakLabel=40c463&sideLabels=475569&dates=475569&sideNums=40c463"/>
   <img width="55%" src="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
