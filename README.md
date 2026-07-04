@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=80&lines=Talha+Salman"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4338CA&center=true&vCenter=true&width=700&height=80&lines=Talha+Salman"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=80&lines=Talha+Salman" alt="Talha Salman"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=40c463&center=true&vCenter=true&width=700&height=80&lines=Talha+Salman"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=40c463&center=true&vCenter=true&width=700&height=80&lines=Talha+Salman"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=40c463&center=true&vCenter=true&width=700&height=80&lines=Talha+Salman" alt="Talha Salman"/>
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%E2%80%94+Engineering+scalable+systems+from+the+ground+up.;React+%C2%B7+Next.js+%C2%B7+ASP.NET+Core+MVC+%C2%B7+Docker+%C2%B7+CI%2FCD;Clean+architecture.+Documented.+Production-ready." alt="Subtitle"/>
 
 <br/>
 
-  
+  
 
 <br/>
 
@@ -24,13 +24,13 @@
 About
 ```typescript
 const talha: Engineer = {
-  name        : "Talha Salman",
-  role        : "Full Stack Engineer",
-  focus       : ["Scalable Systems", "Clean Architecture", "CI/CD Automation"],
-  currentWork : "HMIS — Hospital Management Information System",
-               //  Enterprise · Private Domain · Full Documentation Lifecycle
-  philosophy  : "Ship fast. Refactor smart. Document everything.",
-  available   : true,
+  name        : "Talha Salman",
+  role        : "Full Stack Engineer",
+  focus       : ["Scalable Systems", "Clean Architecture", "CI/CD Automation"],
+  currentWork : "HMIS — Hospital Management Information System",
+               //  Enterprise · Private Domain · Full Documentation Lifecycle
+  philosophy  : "Ship fast. Refactor smart. Document everything.",
+  available   : true,
 };
 ```
 <br/>
@@ -83,18 +83,18 @@ Currently Building
 
 <div align="center">
 <table>
-  <tr>
-    <td>
-      <strong>HMIS — Hospital Management Information System</strong><br/>
-      <sub>Enterprise healthcare platform &nbsp;&middot;&nbsp; Private domain deployment &nbsp;&middot;&nbsp; Full system documentation including architecture flows, module specs and process diagrams</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Active-10b981?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Type-Enterprise-818cf8?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Domain-Healthcare-3b82f6?style=flat-square"/>
-    </td>
-  </tr>
+  <tr>
+    <td>
+      <strong>HMIS — Hospital Management Information System</strong><br/>
+      <sub>Enterprise healthcare platform &nbsp;&middot;&nbsp; Private domain deployment &nbsp;&middot;&nbsp; Full system documentation including architecture flows, module specs and process diagrams</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-Active-40c463?style=flat-square"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Type-Enterprise-40c463?style=flat-square"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Domain-Healthcare-40c463?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -107,23 +107,23 @@ GitHub Stats
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=94a3b8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=4338ca&icon_color=4338ca&text_color=334155&border_color=e2e8f0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=94a3b8"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=40c463&icon_color=40c463&text_color=94a3b8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=ffffff&title_color=40c463&icon_color=40c463&text_color=334155&border_color=e2e8f0"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=talhahSalman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=40c463&icon_color=40c463&text_color=94a3b8"/>
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=false&bg_color=ffffff&title_color=4338ca&text_color=334155&langs_count=8&border_color=e2e8f0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=8"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=true&bg_color=0d1117&title_color=40c463&text_color=94a3b8&langs_count=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=false&bg_color=ffffff&title_color=40c463&text_color=334155&langs_count=8&border_color=e2e8f0"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhahSalman&layout=compact&hide_border=true&bg_color=0d1117&title_color=40c463&text_color=94a3b8&langs_count=8"/>
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=818cf8&sideLabels=94a3b8&dates=94a3b8&sideNums=818cf8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=false&background=ffffff&stroke=e2e8f0&ring=4338ca&fire=d97706&currStreakLabel=4338ca&sideLabels=475569&dates=475569&sideNums=4338ca"/>
-  <img width="55%" src="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=818cf8&sideLabels=94a3b8&dates=94a3b8&sideNums=818cf8"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=false&background=ffffff&stroke=e2e8f0&ring=40c463&fire=d97706&currStreakLabel=40c463&sideLabels=475569&dates=475569&sideNums=40c463"/>
+  <img width="55%" src="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
 </picture>
 
 </div>
@@ -137,9 +137,9 @@ Contribution Graph
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=talhahSalman&bg_color=0d1117&color=818cf8&line=818cf8&point=f59e0b&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=talhahSalman&bg_color=ffffff&color=4338ca&line=4338ca&point=d97706&hide_border=true"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhahSalman&bg_color=0d1117&color=818cf8&line=818cf8&point=f59e0b&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=talhahSalman&bg_color=0d1117&color=40c463&line=40c463&point=40c463&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=talhahSalman&bg_color=ffffff&color=40c463&line=40c463&point=40c463&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhahSalman&bg_color=0d1117&color=40c463&line=40c463&point=40c463&hide_border=true"/>
 </picture>
 
 </div>
@@ -150,7 +150,7 @@ Contribution Graph
 
 ---
 <div align="center">
-  <sub><i>"Clean code is not written by following rules — it is crafted by an engineer who cares."</i></sub>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-10b981?style=flat-square"/>
+  <sub><i>"Clean code is not written by following rules — it is crafted by an engineer who cares."</i></sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-40c463?style=flat-square"/>
 </div>
