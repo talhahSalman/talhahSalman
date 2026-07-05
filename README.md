@@ -64,7 +64,20 @@ Tech Stack
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react%20query&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 </div>
 
 <br/>
@@ -98,10 +111,10 @@ GitHub Stats
 
 <div align="center">
 
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=false&background=ffffff&stroke=e2e8f0&ring=40c463&fire=d97706&currStreakLabel=40c463&sideLabels=475569&dates=475569&sideNums=40c463"/>
-  <img width="55%" src="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakNum=40c463&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=ffffff&stroke=40c463&ring=40c463&fire=f59e0b&currStreakNum=1a7f37&currStreakLabel=1a7f37&sideLabels=57606a&dates=57606a&sideNums=1a7f37"/>
+  <img width="55%" src="https://streak-stats.demolab.com?user=talhahSalman&hide_border=true&background=0d1117&stroke=40c463&ring=40c463&fire=f59e0b&currStreakNum=40c463&currStreakLabel=40c463&sideLabels=94a3b8&dates=94a3b8&sideNums=40c463"/>
 </picture>
 
 </div>
